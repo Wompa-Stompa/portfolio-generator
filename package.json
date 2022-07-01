@@ -1,5 +1,24 @@
 {
   "dependencies": {
+    "express": "^4.18.1",
     "inquirer": "^8.2.4"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wompa-Stompa/portfolio-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wompa-Stompa/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Wompa-Stompa/portfolio-generator#readme",
+  "description": ""
 }
